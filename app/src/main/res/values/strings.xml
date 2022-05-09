@@ -1,0 +1,24 @@
+<resources>
+
+    <!--App Related-->
+    <string name="app_name" translatable="false">Youtube Videos</string>
+    <string name="please_wait" translatable="false">Please wait…</string>
+    <string name="youtube_not_installed">Video not supported as Youtube App not installed in the device.</string>
+    <string name="no_video">No Youtube video found.</string>
+    <string name="content">Content Desc</string>
+    <string name="loading">Loading more…</string>
+    <string name="refresh">Refresh</string>
+
+    <!-- API failures-->
+    <string name="error">Error</string>
+    <string name="no_int_connection">No Internet Connection here</string>
+    <string name="parsing_error">Parsing Error</string>
+    <string name="slow_internet">Connection is slow</string>
+    <string name="api_error">Oops, Something went wrong</string>
+    <string name="internal_server_error">Internal Server Error</string>
+    <string name="could_not_reach_server">Could not reach to the servers</string>
+    <string name="you_are_back_online">You are back online</string>
+    <string name="you_are_offline">Sorry! You are offline</string>
+    <string name="api_key_error">Permission Denied : Requests from this Android client application are blocked.</string>
+
+</resources>
