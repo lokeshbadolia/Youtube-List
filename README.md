@@ -3,7 +3,7 @@ Sample App to show working of Youtube Api v3 With MVVM + Kotlin + Koin + Paginat
 
 <p align="left">
   <img src="https://github.com/lokeshbadolia/Youtube-List/blob/main/Screenshot_20220508-215045.png" width="200"  height="350" >
-  <img src="https://github.com/lokeshbadolia/Youtube-List/blob/main/Screenshot_20220508-215448.png" width="622"  height="350" >
+  <img src="https://github.com/lokeshbadolia/Youtube-List/blob/main/Screenshot_20220508-215448.png" width="200"  height="350" >
 </p>
 
 ## Application Objective
